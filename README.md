@@ -1,5 +1,5 @@
 # Business-Dashboard
-Granite State Distributers
+Granite State Provisioners
 
 I recently consulted with a small business to create dashboards for key metrics they track.  This project was created as a copy (with permission) of that endeavor.  All of the product names, company names and figures have been modified.
 
